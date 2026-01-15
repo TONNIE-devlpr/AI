@@ -21,6 +21,7 @@ try:
             "lifestyle": "take some break for it!"
         }
         print(f'my suggestion is: {suggest[user_type]}')
+break
     else:
         print("byee")
 
